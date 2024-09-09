@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Mahaakrish
-- 🌱 I’m currently learning Java and Python..
+- 🌱 I’m currently working in Javascript & Typescript..
 - 👀 I'm interested in Software development and automation domain..
-- 📫 I'm currently pursuing my masters degree.
-- 🌱 Reach me on mahaankrishna.mca20@rvce.edu.in | linkedin.com/in/mahaan-krishna-772636159 | mahaakrish97@gmail.com
+- 🌱 Reach me on mahaakrish97@gmail.com | linkedin.com/in/mahaan-krishna-772636159
 <!---
 Mahaakrish/Mahaakrish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
